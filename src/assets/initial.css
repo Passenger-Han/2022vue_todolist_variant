@@ -1,0 +1,7 @@
+@charset "UTF-8";
+* {margin: 0; padding: 0; box-sizing: border-box;}
+a, a:link, a:visited {text-decoration: none; color: inherit;}
+ul, li {list-style: none;}
+button {outline: none; border: none;}
+
+body {background-color: #000; color: #FFF;}
